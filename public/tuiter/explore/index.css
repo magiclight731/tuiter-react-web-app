@@ -1,0 +1,76 @@
+.wd-fg-color-white {
+    color: white;
+}
+
+.wd-bg-color-dark-grey {
+    background-color: darkgray;
+}
+
+.wd-bg-color-black {
+    background-color: black;
+}
+
+.wd-post,
+.wd-border-color { /* rgb(47, 51, 54) */
+    border-color: #2f3336;
+    border-style: solid;
+}
+
+.wd-rounded-corners {
+    border-radius: 15px;
+}
+
+.wd-margin-left {
+    margin-left: 16px;
+}
+
+.wd-ninety-p {
+    width: 90%;
+}
+
+.wd-float-right {
+    position: center;
+    float: right;
+    margin-right: 12px;
+}
+
+.wd-highlighted-link { /* rgb 29,161,242 */
+    color: #1da1f2;
+    border-style: hidden hidden solid;
+    border-color: black;
+    border-bottom-color: #1da1f2;
+    padding: 16px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.wd-grey-link { /* rgb 110, 118, 125*/
+    color: #6e767d;
+    border-style: hidden;
+    border-color: black;
+    padding: 16px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.wd-post {
+    color: white;
+    overflow: hidden;
+}
+
+.wd-topic {
+    /* The topics:
+     * - "Trending in Science"
+     * - "Sports Tranding"
+     * - "Trending in United States"
+     * have 13px font and color 110, 118, 125
+     */
+    font-size: 13px;
+    color: #6e767d;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+
+.wd-thin-pad {
+    padding-bottom: 10px;
+}
