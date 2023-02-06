@@ -1,27 +1,7 @@
-.wd-fg-color-white {
-    color: white;
-}
-
-.wd-bg-color-dark-grey {
-    background-color: darkgray;
-}
-
-.wd-bg-color-black {
-    background-color: black;
-}
-
 .wd-post,
 .wd-border-color { /* rgb(47, 51, 54) */
     border-color: #2f3336;
     border-style: solid;
-}
-
-.wd-rounded-corners {
-    border-radius: 15px;
-}
-
-.wd-margin-left {
-    margin-left: 16px;
 }
 
 .wd-ninety-p {

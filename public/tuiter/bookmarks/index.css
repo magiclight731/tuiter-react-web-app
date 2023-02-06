@@ -1,0 +1,80 @@
+.wd-title {
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border-style: hidden hidden solid;
+    border-width: 1px;
+    border-color: #2f3336;
+}
+
+.wd-title-font {
+    font-size: 20px;
+    color: white;
+}
+
+.wd-handle-font {
+    font-size: 13px;
+    color: #2f3336;
+}
+
+.wd-fg-color-lightgray {
+    color: #2f3336;
+}
+
+.wd-avatar-circle {
+    border-radius: 24px;
+}
+
+.wd-username {
+    position: relative;
+    top: -48px;
+    right: -60px;
+}
+
+.wd-border-color { /* rgb(47, 51, 54) */
+    border-color: #2f3336;
+    border-style: solid;
+}
+
+.wd-post {
+    overflow: hidden;
+    font-size: 15px;
+    padding: 16px;
+    max-width: 600px;
+}
+
+.wd-content {
+    color: white;
+    position: relative;
+    top: -48px;
+    right: -60px;
+    max-width: 506px;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-border-small { /* rgb(47, 51, 54) */
+    border-color: #2f3336;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 15px;
+    width: 504px;
+}
+
+
+.wd-thin-pad {
+    padding: 12px;
+}
+
+.wd-equal-spacing-container {
+    width:100%;
+    text-align:center;
+    display:flex;
+    color: lightgray;
+    justify-content: space-between;
+    position: relative;
+    top: -48px;
+    right: -60px;
+    padding: 12px;
+}
