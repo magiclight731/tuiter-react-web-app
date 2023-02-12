@@ -38,7 +38,7 @@
 }
 
 .wd-post {
-    color: white;
+    /*color: white;*/
     overflow: hidden;
 }
 
@@ -57,4 +57,8 @@
 
 .wd-thin-pad {
     padding-bottom: 10px;
+}
+
+.wd-min-width {
+    min-width: 130px;
 }

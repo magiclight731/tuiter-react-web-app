@@ -24,6 +24,10 @@
     margin-left: 16px;
 }
 
+.wd-avatar-circle {
+    border-radius: 24px;
+}
+
 .wd-border-color { /* rgb(47, 51, 54) */
     border-color: #2f3336;
     border-style: solid;
