@@ -1,6 +1,6 @@
 import React from "react";
 //import ExplorePage from "./explore/ExplorePage";
-import HomePage from "./homenew";
+import HomePage from "./home";
 import whoReducer
     from "./reducers/who-reducer";
 import tuitsReducer from "./tuits/tuits-reducer";
